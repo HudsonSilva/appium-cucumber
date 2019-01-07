@@ -1,0 +1,4 @@
+[caps]
+platformName = 'Android'
+deviceName = 'device'
+app = '{path}/build/apk/app.apk'
