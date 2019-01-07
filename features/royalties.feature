@@ -1,10 +1,10 @@
 # language: pt
 Funcionalidade: Cálculo de Royalties
-  Para saber a quantidades de royalties a receber
-  Como uma pessoa que precisa dessa informação (não sei como vc vai chamar essa pessoa xD)
-  Quero saber a quantidade de royalties recebido por ano
+  Para fins de tomada de decisão
+  Como um Diretor
+  Quero saber a quantidade de royalties recebidos por ano
 
-  Cenário: Total de vendas de um vendedor no ano
+  Cenário: Total de vendas no ano
     Dado que meu nome já foi informado
     Quando busco por um vendedor
     E escolho o ano
